@@ -64,11 +64,11 @@ As a Software Developer at Desjardins, I work with modern and legacy technologie
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10">
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VB.NET">
+  <img src="https://img.shields.io/badge/.NET%20Framework%204.7-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework">
+  <img src="https://img.shields.io/badge/.NET%20Standard%202.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Standard">
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VB.NET">
-  <img src="https://img.shields.io/badge/.NET%20Framework%204.7-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework 4.7">
-  <img src="https://img.shields.io/badge/.NET%20Standard%202.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Standard 2.0">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=xunit&logoColor=white" alt="xUnit">
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
